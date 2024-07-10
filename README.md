@@ -2,9 +2,9 @@
 - 👀 I’m interested in reading, writing, and math.
 - 🌱 I’m currently working in Graphic Information Technology with Full-Stack Web Development
 - 💞️ I’m looking to this exciting new platform.
-- 📫 How to reach me 24/7/365
+- 📫 How to reach me 24/7/365 msmithab@
 - 😄 Pronouns: Female
-- ⚡ Fun fact: I realy love the Lord!
+- ⚡ Fun fact: I really love the Lord!
 
 <!---
 marciakaren-smithabramsalmasi/marciakaren-smithabramsalmasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
